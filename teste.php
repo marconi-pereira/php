@@ -1,4 +1,4 @@
-phpinfo();
-<? 
+<?phpinfo();?>
+
  echo 'teste';
-?>
+
